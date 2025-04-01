@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Typing Game</h1>
+        <p>Type the word displayed below before time runs out!</p>
+        <select id="game-mode" >
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+        </select>
+        <div class="game-info">
+            <p>Time Left: <span id="time-left">10</span>s</p>
+            <p>Score: <span id="score">0</span></p>
+        </div>
+        <div class="word-display">
+            <h2 id="word">example</h2>
+        </div>
+     
+        <input type="text" id="user-input" placeholder="Start typing..." autofocus>
+
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

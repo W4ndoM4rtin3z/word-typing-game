@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.game-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 400px;
+}
+h1 {
+    color: #333;
+}
+.game-info {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.word-display {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+    margin: 20px 0;
+}
+#user-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    text-align: center;
+}
+
+select {
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #3498db;
+    background-color: #f8f9fa;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    outline: none;
+  }
+  
+  /* Hover Effect */
+  select:hover {
+    border-color: #2980b9;
+    background-color: #ecf0f1;
+  }
+  
+  /* Focus Effect */
+  select:focus {
+    border-color: #2ecc71;
+    background-color: white;
+    box-shadow: 0px 0px 8px rgba(46, 204, 113, 0.5);
+  }
+  
+  /* Customize Dropdown Arrow */
+  select::-ms-expand {
+    display: none;
+  }
+  select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%233498db' d='M2 0L0 2h4zM2 5L0 3h4z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 8px;
+  }
+  
+  /* Option Styles */
+  option {
+    font-size: 16px;
+    background: #fff;
+    color: #333;
+  }
+  
+
+  button{
+    padding: 10px;
+    cursor: pointer;
+
+  }
